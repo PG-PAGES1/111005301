@@ -1,0 +1,55 @@
+
+freeend.png
+size: 1333,656
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: false
+  xy: 817, 275
+  size: 256, 379
+  orig: 256, 379
+  offset: 0, 0
+  index: -1
+a_open
+  rotate: true
+  xy: 504, 17
+  size: 256, 370
+  orig: 256, 370
+  offset: 0, 0
+  index: -1
+b
+  rotate: false
+  xy: 1075, 275
+  size: 256, 379
+  orig: 256, 379
+  offset: 0, 0
+  index: -1
+b_open
+  rotate: true
+  xy: 876, 17
+  size: 256, 370
+  orig: 256, 370
+  offset: 0, 0
+  index: -1
+cap
+  rotate: false
+  xy: 2, 2
+  size: 256, 150
+  orig: 256, 150
+  offset: 0, 0
+  index: -1
+evening_light
+  rotate: false
+  xy: 504, 343
+  size: 311, 311
+  orig: 311, 311
+  offset: 0, 0
+  index: -1
+mianfeijiesuanguangxiao
+  rotate: false
+  xy: 2, 154
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1

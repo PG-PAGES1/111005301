@@ -1,0 +1,62 @@
+
+jinhongbao.png
+size: 438,922
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hongbao/a
+  rotate: true
+  xy: 220, 367
+  size: 145, 216
+  orig: 145, 216
+  offset: 0, 0
+  index: -1
+hongbao/a_open
+  rotate: false
+  xy: 2, 149
+  size: 145, 216
+  orig: 145, 216
+  offset: 0, 0
+  index: -1
+hongbao/b
+  rotate: true
+  xy: 2, 2
+  size: 145, 216
+  orig: 145, 216
+  offset: 0, 0
+  index: -1
+hongbao/b_open
+  rotate: false
+  xy: 149, 149
+  size: 145, 216
+  orig: 145, 216
+  offset: 0, 0
+  index: -1
+hongbao/c
+  rotate: true
+  xy: 220, 2
+  size: 145, 216
+  orig: 145, 216
+  offset: 0, 0
+  index: -1
+hongbao/c_open
+  rotate: true
+  xy: 2, 367
+  size: 145, 216
+  orig: 145, 216
+  offset: 0, 0
+  index: -1
+hongbao/cap
+  rotate: true
+  xy: 296, 220
+  size: 145, 116
+  orig: 145, 116
+  offset: 0, 0
+  index: -1
+shockwave
+  rotate: false
+  xy: 2, 514
+  size: 406, 406
+  orig: 406, 406
+  offset: 0, 0
+  index: -1

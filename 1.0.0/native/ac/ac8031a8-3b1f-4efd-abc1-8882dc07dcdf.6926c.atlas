@@ -1,0 +1,55 @@
+
+hongbao.png
+size: 1702,383
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hongbao/a
+  rotate: false
+  xy: 2, 2
+  size: 256, 379
+  orig: 256, 379
+  offset: 0, 0
+  index: -1
+hongbao/a_open
+  rotate: false
+  xy: 1034, 11
+  size: 256, 370
+  orig: 256, 370
+  offset: 0, 0
+  index: -1
+hongbao/b
+  rotate: false
+  xy: 260, 2
+  size: 256, 379
+  orig: 256, 379
+  offset: 0, 0
+  index: -1
+hongbao/b_open
+  rotate: false
+  xy: 1292, 11
+  size: 256, 370
+  orig: 256, 370
+  offset: 0, 0
+  index: -1
+hongbao/c
+  rotate: false
+  xy: 518, 2
+  size: 256, 379
+  orig: 256, 379
+  offset: 0, 0
+  index: -1
+hongbao/c_open
+  rotate: false
+  xy: 776, 11
+  size: 256, 370
+  orig: 256, 370
+  offset: 0, 0
+  index: -1
+hongbao/cap
+  rotate: true
+  xy: 1550, 125
+  size: 256, 150
+  orig: 256, 150
+  offset: 0, 0
+  index: -1

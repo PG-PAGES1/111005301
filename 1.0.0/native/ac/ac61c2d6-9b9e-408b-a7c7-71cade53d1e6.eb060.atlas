@@ -1,0 +1,48 @@
+
+red_packet.png
+size: 249,273
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AngBao1
+  rotate: false
+  xy: 143, 125
+  size: 104, 146
+  orig: 104, 146
+  offset: 0, 0
+  index: -1
+AngBao2
+  rotate: false
+  xy: 2, 2
+  size: 130, 128
+  orig: 130, 128
+  offset: 0, 0
+  index: -1
+Ring
+  rotate: false
+  xy: 2, 132
+  size: 139, 139
+  orig: 139, 139
+  offset: 0, 0
+  index: -1
+fx-apow
+  rotate: false
+  xy: 201, 89
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+fx-apow01
+  rotate: true
+  xy: 134, 5
+  size: 52, 73
+  orig: 52, 73
+  offset: 0, 0
+  index: -1
+fx-apow02
+  rotate: false
+  xy: 134, 59
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1

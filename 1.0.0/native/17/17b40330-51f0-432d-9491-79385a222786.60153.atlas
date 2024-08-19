@@ -1,0 +1,20 @@
+
+fivestar.jpg
+size: 552,410
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shockwave
+  rotate: false
+  xy: 2, 2
+  size: 406, 406
+  orig: 406, 406
+  offset: 0, 0
+  index: -1
+ssgg
+  rotate: true
+  xy: 410, 78
+  size: 330, 140
+  orig: 330, 140
+  offset: 0, 0
+  index: -1

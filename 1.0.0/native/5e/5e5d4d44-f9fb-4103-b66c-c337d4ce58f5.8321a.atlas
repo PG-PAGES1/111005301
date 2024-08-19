@@ -1,0 +1,215 @@
+
+skeleton.jpg
+size: 1053,1146
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+click_lights/xuanzhuananniu/fx_fairy_celebrate_000
+  rotate: false
+  xy: 2, 1141
+  size: 3, 3
+  orig: 500, 565
+  offset: 0, 562
+  index: -1
+click_lights/xuanzhuananniu/fx_fairy_celebrate_001
+  rotate: false
+  xy: 2, 1141
+  size: 3, 3
+  orig: 500, 565
+  offset: 0, 562
+  index: -1
+click_lights/xuanzhuananniu/fx_fairy_celebrate_002
+  rotate: false
+  xy: 2, 1141
+  size: 3, 3
+  orig: 500, 565
+  offset: 0, 562
+  index: -1
+click_lights/xuanzhuananniu/fx_fairy_celebrate_003
+  rotate: false
+  xy: 2, 1141
+  size: 3, 3
+  orig: 500, 565
+  offset: 0, 562
+  index: -1
+click_lights/xuanzhuananniu/fx_fairy_celebrate_004
+  rotate: false
+  xy: 2, 1141
+  size: 3, 3
+  orig: 500, 565
+  offset: 0, 562
+  index: -1
+click_lights/xuanzhuananniu/fx_fairy_celebrate_005
+  rotate: false
+  xy: 568, 981
+  size: 180, 163
+  orig: 500, 565
+  offset: 158, 187
+  index: -1
+click_lights/xuanzhuananniu/fx_fairy_celebrate_006
+  rotate: false
+  xy: 2, 774
+  size: 252, 221
+  orig: 500, 565
+  offset: 124, 172
+  index: -1
+click_lights/xuanzhuananniu/fx_fairy_celebrate_007
+  rotate: true
+  xy: 782, 219
+  size: 252, 269
+  orig: 500, 565
+  offset: 124, 145
+  index: -1
+click_lights/xuanzhuananniu/fx_fairy_celebrate_008
+  rotate: true
+  xy: 487, 221
+  size: 250, 293
+  orig: 500, 565
+  offset: 125, 134
+  index: -1
+click_lights/xuanzhuananniu/fx_fairy_celebrate_009
+  rotate: true
+  xy: 2, 2
+  size: 274, 321
+  orig: 500, 565
+  offset: 114, 114
+  index: -1
+click_lights/xuanzhuananniu/fx_fairy_celebrate_015
+  rotate: false
+  xy: 729, 473
+  size: 250, 233
+  orig: 500, 565
+  offset: 126, 196
+  index: -1
+click_lights/xuanzhuananniu/fx_fairy_celebrate_016
+  rotate: false
+  xy: 494, 750
+  size: 250, 229
+  orig: 500, 565
+  offset: 126, 201
+  index: -1
+click_lights/xuanzhuananniu/fx_fairy_celebrate_017
+  rotate: false
+  xy: 746, 708
+  size: 250, 229
+  orig: 500, 565
+  offset: 125, 200
+  index: -1
+click_lights/xuanzhuananniu/fx_fairy_celebrate_018
+  rotate: false
+  xy: 2, 541
+  size: 244, 231
+  orig: 500, 565
+  offset: 126, 200
+  index: -1
+click_lights/xuanzhuananniu/fx_fairy_celebrate_019
+  rotate: true
+  xy: 248, 518
+  size: 246, 231
+  orig: 500, 565
+  offset: 125, 200
+  index: -1
+click_lights/xuanzhuananniu/fx_fairy_celebrate_020
+  rotate: true
+  xy: 2, 293
+  size: 246, 235
+  orig: 500, 565
+  offset: 126, 199
+  index: -1
+click_lights/xuanzhuananniu/fx_fairy_celebrate_021
+  rotate: false
+  xy: 239, 278
+  size: 246, 237
+  orig: 500, 565
+  offset: 125, 199
+  index: -1
+click_lights/xuanzhuananniu/fx_fairy_celebrate_022
+  rotate: false
+  xy: 481, 517
+  size: 246, 231
+  orig: 500, 565
+  offset: 125, 206
+  index: -1
+click_lights/xuanzhuananniu/fx_fairy_celebrate_023
+  rotate: false
+  xy: 256, 766
+  size: 236, 221
+  orig: 500, 565
+  offset: 135, 207
+  index: -1
+click_lights/xuanzhuananniu/fx_fairy_celebrate_024
+  rotate: false
+  xy: 750, 939
+  size: 238, 205
+  orig: 500, 565
+  offset: 134, 207
+  index: -1
+click_lights/xuanzhuananniu/fx_fairy_celebrate_025
+  rotate: false
+  xy: 344, 989
+  size: 222, 155
+  orig: 500, 565
+  offset: 137, 258
+  index: -1
+click_lights/xuanzhuananniu/fx_fairy_celebrate_026
+  rotate: false
+  xy: 174, 997
+  size: 168, 147
+  orig: 500, 565
+  offset: 191, 258
+  index: -1
+ddd
+  rotate: false
+  xy: 7, 1066
+  size: 78, 78
+  orig: 80, 80
+  offset: 1, 1
+  index: -1
+ffff
+  rotate: false
+  xy: 87, 1059
+  size: 85, 85
+  orig: 87, 87
+  offset: 1, 1
+  index: -1
+
+skeleton2.jpg
+size: 1075,857
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+click_lights/xuanzhuananniu/fx_fairy_celebrate_010
+  rotate: false
+  xy: 350, 47
+  size: 310, 345
+  orig: 500, 565
+  offset: 96, 96
+  index: -1
+click_lights/xuanzhuananniu/fx_fairy_celebrate_011
+  rotate: false
+  xy: 2, 25
+  size: 346, 367
+  orig: 500, 565
+  offset: 78, 78
+  index: -1
+click_lights/xuanzhuananniu/fx_fairy_celebrate_012
+  rotate: true
+  xy: 662, 2
+  size: 410, 411
+  orig: 500, 565
+  offset: 46, 46
+  index: -1
+click_lights/xuanzhuananniu/fx_fairy_celebrate_013
+  rotate: false
+  xy: 464, 414
+  size: 442, 441
+  orig: 500, 565
+  offset: 30, 31
+  index: -1
+click_lights/xuanzhuananniu/fx_fairy_celebrate_014
+  rotate: false
+  xy: 2, 394
+  size: 460, 461
+  orig: 500, 565
+  offset: 21, 21
+  index: -1

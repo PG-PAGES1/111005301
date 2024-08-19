@@ -1,0 +1,495 @@
+
+fx_shake.png
+size: 1493,1384
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light
+  rotate: false
+  xy: 1342, 1300
+  size: 82, 82
+  orig: 84, 84
+  offset: 1, 1
+  index: -1
+shake_bg
+  rotate: false
+  xy: 2, 1177
+  size: 596, 205
+  orig: 596, 215
+  offset: 0, 5
+  index: -1
+shakewave
+  rotate: false
+  xy: 600, 1210
+  size: 255, 172
+  orig: 255, 193
+  offset: 0, 10
+  index: -1
+yaoyiyaotu/ft_icon_Shake_CN_00
+  rotate: false
+  xy: 1298, 62
+  size: 193, 193
+  orig: 262, 262
+  offset: 35, 35
+  index: -1
+yaoyiyaotu/ft_icon_Shake_CN_03
+  rotate: true
+  xy: 929, 501
+  size: 193, 196
+  orig: 262, 262
+  offset: 35, 32
+  index: -1
+yaoyiyaotu/ft_icon_Shake_CN_04
+  rotate: true
+  xy: 967, 700
+  size: 200, 208
+  orig: 262, 262
+  offset: 30, 20
+  index: -1
+yaoyiyaotu/ft_icon_Shake_CN_11
+  rotate: true
+  xy: 243, 243
+  size: 225, 237
+  orig: 262, 262
+  offset: 25, 17
+  index: -1
+yaoyiyaotu/ft_icon_Shake_CN_15
+  rotate: true
+  xy: 243, 470
+  size: 226, 239
+  orig: 262, 262
+  offset: 23, 17
+  index: -1
+yaoyiyaotu/ft_icon_Shake_CN_19
+  rotate: false
+  xy: 482, 243
+  size: 231, 225
+  orig: 262, 262
+  offset: 12, 16
+  index: -1
+yingwenyaoyiyaotu/ft_icon_Shake_EN_03
+  rotate: true
+  xy: 725, 501
+  size: 193, 202
+  orig: 262, 262
+  offset: 35, 26
+  index: -1
+yingwenyaoyiyaotu/ft_icon_Shake_EN_05
+  rotate: false
+  xy: 857, 1169
+  size: 241, 213
+  orig: 262, 262
+  offset: 9, 15
+  index: -1
+yingwenyaoyiyaotu/ft_icon_Shake_EN_06
+  rotate: true
+  xy: 223, 2
+  size: 239, 213
+  orig: 262, 262
+  offset: 10, 15
+  index: -1
+yingwenyaoyiyaotu/ft_icon_Shake_EN_07
+  rotate: true
+  xy: 2, 2
+  size: 239, 219
+  orig: 262, 262
+  offset: 10, 15
+  index: -1
+yingwenyaoyiyaotu/ft_icon_Shake_EN_08
+  rotate: false
+  xy: 726, 696
+  size: 239, 230
+  orig: 262, 262
+  offset: 10, 15
+  index: -1
+yingwenyaoyiyaotu/ft_icon_Shake_EN_09
+  rotate: false
+  xy: 2, 471
+  size: 239, 235
+  orig: 262, 262
+  offset: 10, 15
+  index: -1
+yingwenyaoyiyaotu/ft_icon_Shake_EN_10
+  rotate: false
+  xy: 2, 708
+  size: 239, 237
+  orig: 262, 262
+  offset: 10, 15
+  index: -1
+yingwenyaoyiyaotu/ft_icon_Shake_EN_11
+  rotate: false
+  xy: 1100, 1143
+  size: 240, 239
+  orig: 262, 262
+  offset: 10, 15
+  index: -1
+yingwenyaoyiyaotu/ft_icon_Shake_EN_12
+  rotate: true
+  xy: 842, 928
+  size: 239, 240
+  orig: 262, 262
+  offset: 10, 15
+  index: -1
+yingwenyaoyiyaotu/ft_icon_Shake_EN_13
+  rotate: true
+  xy: 1084, 902
+  size: 239, 240
+  orig: 262, 262
+  offset: 10, 15
+  index: -1
+yingwenyaoyiyaotu/ft_icon_Shake_EN_14
+  rotate: false
+  xy: 244, 936
+  size: 239, 239
+  orig: 262, 262
+  offset: 10, 15
+  index: -1
+yingwenyaoyiyaotu/ft_icon_Shake_EN_15
+  rotate: false
+  xy: 600, 968
+  size: 240, 240
+  orig: 262, 262
+  offset: 10, 15
+  index: -1
+yingwenyaoyiyaotu/ft_icon_Shake_EN_16
+  rotate: false
+  xy: 485, 729
+  size: 239, 237
+  orig: 262, 262
+  offset: 10, 15
+  index: -1
+yingwenyaoyiyaotu/ft_icon_Shake_EN_17
+  rotate: false
+  xy: 243, 698
+  size: 239, 236
+  orig: 262, 262
+  offset: 10, 15
+  index: -1
+yingwenyaoyiyaotu/ft_icon_Shake_EN_18
+  rotate: false
+  xy: 2, 947
+  size: 240, 228
+  orig: 262, 262
+  offset: 10, 15
+  index: -1
+yingwenyaoyiyaotu/ft_icon_Shake_EN_19
+  rotate: false
+  xy: 2, 243
+  size: 239, 226
+  orig: 262, 262
+  offset: 10, 15
+  index: -1
+yingwenyaoyiyaotu/ft_icon_Shake_EN_20
+  rotate: false
+  xy: 484, 499
+  size: 239, 228
+  orig: 262, 262
+  offset: 10, 15
+  index: -1
+yingwenyaoyiyaotu/ft_icon_Shake_EN_21
+  rotate: true
+  xy: 438, 2
+  size: 239, 213
+  orig: 262, 262
+  offset: 10, 15
+  index: -1
+yingwenyaoyiyaotu/ft_icon_Shake_EN_22
+  rotate: true
+  xy: 653, 2
+  size: 239, 213
+  orig: 262, 262
+  offset: 10, 15
+  index: -1
+yingwenyaoyiyaotu/ft_icon_Shake_EN_23
+  rotate: true
+  xy: 715, 258
+  size: 239, 213
+  orig: 262, 262
+  offset: 10, 15
+  index: -1
+yingwenyaoyiyaotu/ft_icon_Shake_EN_24
+  rotate: false
+  xy: 1177, 687
+  size: 239, 213
+  orig: 262, 262
+  offset: 10, 15
+  index: -1
+yingwenyaoyiyaotu/ft_icon_Shake_EN_25
+  rotate: true
+  xy: 868, 17
+  size: 239, 213
+  orig: 262, 262
+  offset: 10, 15
+  index: -1
+yingwenyaoyiyaotu/ft_icon_Shake_EN_26
+  rotate: true
+  xy: 930, 260
+  size: 239, 213
+  orig: 262, 262
+  offset: 10, 15
+  index: -1
+yingwenyaoyiyaotu/ft_icon_Shake_EN_27
+  rotate: false
+  xy: 1145, 472
+  size: 239, 213
+  orig: 262, 262
+  offset: 10, 15
+  index: -1
+yingwenyaoyiyaotu/ft_icon_Shake_EN_28
+  rotate: false
+  xy: 1145, 257
+  size: 239, 213
+  orig: 262, 262
+  offset: 10, 15
+  index: -1
+yingwenyaoyiyaotu/ft_icon_Shake_EN_29
+  rotate: true
+  xy: 1083, 16
+  size: 239, 213
+  orig: 262, 262
+  offset: 10, 15
+  index: -1
+
+fx_shake2.png
+size: 1381,1296
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ft_icon_Shake_light_cn
+  rotate: false
+  xy: 451, 2
+  size: 208, 210
+  orig: 262, 262
+  offset: 27, 18
+  index: -1
+ft_icon_Shake_light_en
+  rotate: false
+  xy: 949, 853
+  size: 235, 213
+  orig: 262, 262
+  offset: 12, 16
+  index: -1
+yaoyiyaotu/ft_icon_Shake_CN_01
+  rotate: false
+  xy: 1186, 1101
+  size: 193, 193
+  orig: 262, 262
+  offset: 35, 35
+  index: -1
+yaoyiyaotu/ft_icon_Shake_CN_02
+  rotate: false
+  xy: 1186, 906
+  size: 193, 193
+  orig: 262, 262
+  offset: 35, 35
+  index: -1
+yaoyiyaotu/ft_icon_Shake_CN_05
+  rotate: false
+  xy: 907, 635
+  size: 218, 213
+  orig: 262, 262
+  offset: 21, 15
+  index: -1
+yaoyiyaotu/ft_icon_Shake_CN_06
+  rotate: false
+  xy: 905, 422
+  size: 211, 211
+  orig: 262, 262
+  offset: 25, 17
+  index: -1
+yaoyiyaotu/ft_icon_Shake_CN_07
+  rotate: true
+  xy: 231, 2
+  size: 210, 218
+  orig: 262, 262
+  offset: 25, 17
+  index: -1
+yaoyiyaotu/ft_icon_Shake_CN_08
+  rotate: true
+  xy: 718, 850
+  size: 218, 229
+  orig: 262, 262
+  offset: 25, 17
+  index: -1
+yaoyiyaotu/ft_icon_Shake_CN_09
+  rotate: true
+  xy: 715, 1070
+  size: 224, 234
+  orig: 262, 262
+  offset: 25, 17
+  index: -1
+yaoyiyaotu/ft_icon_Shake_CN_10
+  rotate: false
+  xy: 2, 581
+  size: 224, 237
+  orig: 262, 262
+  offset: 25, 17
+  index: -1
+yaoyiyaotu/ft_icon_Shake_CN_12
+  rotate: false
+  xy: 2, 820
+  size: 224, 238
+  orig: 262, 262
+  offset: 25, 17
+  index: -1
+yaoyiyaotu/ft_icon_Shake_CN_13
+  rotate: true
+  xy: 236, 1070
+  size: 224, 238
+  orig: 262, 262
+  offset: 25, 17
+  index: -1
+yaoyiyaotu/ft_icon_Shake_CN_14
+  rotate: true
+  xy: 476, 1070
+  size: 224, 237
+  orig: 262, 262
+  offset: 25, 17
+  index: -1
+yaoyiyaotu/ft_icon_Shake_CN_16
+  rotate: false
+  xy: 2, 106
+  size: 227, 235
+  orig: 262, 262
+  offset: 20, 17
+  index: -1
+yaoyiyaotu/ft_icon_Shake_CN_17
+  rotate: false
+  xy: 2, 1060
+  size: 232, 234
+  orig: 262, 262
+  offset: 17, 17
+  index: -1
+yaoyiyaotu/ft_icon_Shake_CN_18
+  rotate: true
+  xy: 2, 343
+  size: 236, 226
+  orig: 262, 262
+  offset: 14, 17
+  index: -1
+yaoyiyaotu/ft_icon_Shake_CN_20
+  rotate: false
+  xy: 951, 1068
+  size: 233, 226
+  orig: 262, 262
+  offset: 11, 17
+  index: -1
+yaoyiyaotu/ft_icon_Shake_CN_21
+  rotate: false
+  xy: 679, 211
+  size: 221, 211
+  orig: 262, 262
+  offset: 25, 17
+  index: -1
+yaoyiyaotu/ft_icon_Shake_CN_22
+  rotate: false
+  xy: 231, 214
+  size: 222, 211
+  orig: 262, 262
+  offset: 25, 17
+  index: -1
+yaoyiyaotu/ft_icon_Shake_CN_23
+  rotate: false
+  xy: 455, 216
+  size: 222, 211
+  orig: 262, 262
+  offset: 25, 17
+  index: -1
+yaoyiyaotu/ft_icon_Shake_CN_24
+  rotate: false
+  xy: 230, 427
+  size: 223, 211
+  orig: 262, 262
+  offset: 25, 17
+  index: -1
+yaoyiyaotu/ft_icon_Shake_CN_25
+  rotate: false
+  xy: 455, 429
+  size: 223, 211
+  orig: 262, 262
+  offset: 25, 17
+  index: -1
+yaoyiyaotu/ft_icon_Shake_CN_26
+  rotate: false
+  xy: 680, 424
+  size: 223, 211
+  orig: 262, 262
+  offset: 25, 17
+  index: -1
+yaoyiyaotu/ft_icon_Shake_CN_27
+  rotate: false
+  xy: 455, 642
+  size: 224, 211
+  orig: 262, 262
+  offset: 25, 17
+  index: -1
+yaoyiyaotu/ft_icon_Shake_CN_28
+  rotate: false
+  xy: 681, 637
+  size: 224, 211
+  orig: 262, 262
+  offset: 25, 17
+  index: -1
+yaoyiyaotu/ft_icon_Shake_CN_29
+  rotate: false
+  xy: 902, 209
+  size: 211, 211
+  orig: 262, 262
+  offset: 25, 17
+  index: -1
+yaoyiyaotu/ft_icon_Shake_CN_30
+  rotate: false
+  xy: 1127, 640
+  size: 211, 211
+  orig: 262, 262
+  offset: 25, 17
+  index: -1
+yaoyiyaotu/ft_icon_Shake_CN_31
+  rotate: false
+  xy: 1115, 209
+  size: 211, 211
+  orig: 262, 262
+  offset: 25, 17
+  index: -1
+yingwenyaoyiyaotu/ft_icon_Shake_EN_00
+  rotate: false
+  xy: 661, 16
+  size: 193, 193
+  orig: 262, 262
+  offset: 35, 35
+  index: -1
+yingwenyaoyiyaotu/ft_icon_Shake_EN_01
+  rotate: false
+  xy: 856, 14
+  size: 193, 193
+  orig: 262, 262
+  offset: 35, 35
+  index: -1
+yingwenyaoyiyaotu/ft_icon_Shake_EN_02
+  rotate: false
+  xy: 1051, 14
+  size: 193, 193
+  orig: 262, 262
+  offset: 35, 35
+  index: -1
+yingwenyaoyiyaotu/ft_icon_Shake_EN_04
+  rotate: false
+  xy: 228, 640
+  size: 225, 213
+  orig: 262, 262
+  offset: 17, 15
+  index: -1
+yingwenyaoyiyaotu/ft_icon_Shake_EN_30
+  rotate: false
+  xy: 236, 855
+  size: 239, 213
+  orig: 262, 262
+  offset: 10, 15
+  index: -1
+yingwenyaoyiyaotu/ft_icon_Shake_EN_31
+  rotate: false
+  xy: 477, 855
+  size: 239, 213
+  orig: 262, 262
+  offset: 10, 16
+  index: -1
